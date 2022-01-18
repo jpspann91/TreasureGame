@@ -9,7 +9,7 @@ Also shows basic understanding of Objects Classes and Methods as well.
 
 # How To Play
 
-Download the entire project to your local machine. Then use your Java IDE to open the project and located the Test class. 
+Download the entire project to your local machine. Then use your Java IDE to open the project and locate the Test class. 
 Run the main() method on the test class and enjoy the game
 
 # Authors
